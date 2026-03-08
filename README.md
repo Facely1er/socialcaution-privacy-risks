@@ -1,6 +1,10 @@
 # SocialCaution Privacy Exposure Index (Core)
 
+*Open-source methodology package — not the full SocialCaution product.*
+
 This repository contains the **calculation methodology** for SocialCaution's Privacy Exposure Index (0–100). It is published for transparency and community review.
+
+This **core** package is open source (MIT). The full SocialCaution product (app, service database, premium features, payments) is proprietary and not included here.
 
 ## What's included
 
@@ -12,6 +16,8 @@ This repository contains the **calculation methodology** for SocialCaution's Pri
 
 - SocialCaution's full service database
 - The full SocialCaution app, premium features, or payment integration
+
+*The main SocialCaution project is not open source; only this methodology package is.*
 
 ## Usage
 

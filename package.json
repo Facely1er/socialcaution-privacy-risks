@@ -1,7 +1,7 @@
 {
   "name": "socialcaution-core",
   "version": "1.0.0",
-  "description": "Privacy Exposure Index calculation methodology — SocialCaution",
+  "description": "Open-source Privacy Exposure Index methodology for SocialCaution (core only; full product is proprietary)",
   "main": "index.js",
   "license": "MIT"
 }

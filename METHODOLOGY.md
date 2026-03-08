@@ -1,5 +1,7 @@
 # Privacy Exposure Index — Methodology
 
+This document describes the 8-factor model used in the SocialCaution open-source methodology package (this repository). The full SocialCaution product and service database are proprietary.
+
 The Privacy Exposure Index is a 0–100 score where **higher = more privacy exposure/risk**.
 
 ## 8-factor model
