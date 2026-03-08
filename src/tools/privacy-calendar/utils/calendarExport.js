@@ -32,7 +32,7 @@ export function exportToICS(calendarData, options = {}) {
         
         icsContent.push(
           'BEGIN:VEVENT',
-          `UID:privacy-calendar-${year}-${monthIndex}-${weekIndex}-${taskIndex}@ermits.com`,
+          `UID:privacy-calendar-${year}-${monthIndex}-${weekIndex}-${taskIndex}@yourdomain.com`,
           `DTSTART:${startDate}`,
           `DTEND:${endDate}`,
           `SUMMARY:${task.title}`,

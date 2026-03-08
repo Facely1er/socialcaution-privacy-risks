@@ -213,7 +213,7 @@ Optional technical suggestions
 
 ### Reporting Security Issues
 - **DO NOT** create public issues for security vulnerabilities
-- Email support@ermits.com
+- Email support@yourdomain.com
 - Include detailed reproduction steps
 - We'll respond within 24 hours
 
@@ -292,8 +292,8 @@ We recognize contributors in several ways:
 ## 📞 Getting Help
 
 - **Development Questions**: [GitHub Discussions](https://github.com/socialcaution/socialcaution/discussions)
-- **Privacy Questions**: support@ermits.com
-- **General Support**: support@ermits.com
+- **Privacy Questions**: support@yourdomain.com
+- **General Support**: support@yourdomain.com
 - **Chat**: Join our contributor Discord (invite in discussions)
 
 ## 📄 License
@@ -306,4 +306,4 @@ Every contribution, no matter how small, helps make digital privacy more accessi
 
 ---
 
-**Questions?** Don't hesitate to ask in [GitHub Discussions](https://github.com/socialcaution/socialcaution/discussions) or email us at support@ermits.com.
+**Questions?** Don't hesitate to ask in [GitHub Discussions](https://github.com/socialcaution/socialcaution/discussions) or email us at support@yourdomain.com.

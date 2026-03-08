@@ -137,7 +137,7 @@ const ErrorUI = ({ error, errorInfo, errorId, userFeedback, feedbackSent, retryC
             <p className="text-xs text-gray-500 dark:text-gray-400">
               {t('errorBoundary.needHelp')}{' '}
               <a 
-                href={`mailto:${import.meta.env.VITE_REACT_APP_SUPPORT_EMAIL || 'support@ermits.com'}?subject=Error%20Report%20${errorId}`}
+                href={`mailto:${import.meta.env.VITE_REACT_APP_SUPPORT_EMAIL || 'support@yourdomain.com'}?subject=Error%20Report%20${errorId}`}
                 className="text-red-500 hover:text-red-600 underline inline-flex items-center"
               >
                 <Mail className="w-3 h-3 mr-1" />

@@ -25,7 +25,7 @@ If you prefer to apply migrations one at a time:
 ### Step 1: Access Supabase SQL Editor
 
 1. Log in to [Supabase Dashboard](https://supabase.com/dashboard)
-2. Select your project: `nuwfdvwqiynzhbbsqagw`
+2. Select your project (use your own Supabase project ref)
 3. Click **SQL Editor** in the left sidebar
 4. Click **New Query** button
 

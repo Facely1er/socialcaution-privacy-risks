@@ -60,7 +60,7 @@ exports.handler = async (event, context) => {
     // For now, we'll send a notification email and store in a simple format
     
     const apiKey = process.env.SENDGRID_API_KEY;
-    const fromEmail = process.env.SENDGRID_FROM_EMAIL || 'noreply@ermits.com';
+    const fromEmail = process.env.SENDGRID_FROM_EMAIL || 'noreply@yourdomain.com';
     const adminEmail = process.env.ADMIN_EMAIL || fromEmail;
 
     // If SendGrid is configured, send notification email

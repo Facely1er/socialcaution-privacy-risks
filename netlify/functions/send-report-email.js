@@ -134,7 +134,7 @@ All data is processed locally and stored only on your device.
       try {
         const msg = {
           to: email,
-          from: process.env.SENDGRID_FROM_EMAIL || 'noreply@ermits.com',
+          from: process.env.SENDGRID_FROM_EMAIL || 'noreply@yourdomain.com',
           subject: `Your SocialCaution Privacy Report - ${report.reportDate}`,
           text: textContent,
           html: htmlContent,

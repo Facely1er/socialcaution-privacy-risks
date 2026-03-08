@@ -203,7 +203,7 @@ VITE_REACT_APP_SENTRY_DSN=your-sentry-dsn
 VITE_REACT_APP_ERROR_REPORTING_ENABLED=true
 
 # Support & Feedback (optional)
-VITE_REACT_APP_SUPPORT_EMAIL=support@ermits.com
+VITE_REACT_APP_SUPPORT_EMAIL=support@yourdomain.com
 VITE_REACT_APP_FEEDBACK_WEBHOOK=your-webhook-url
 
 # Feature flags

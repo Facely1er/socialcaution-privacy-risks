@@ -31,7 +31,7 @@ const StructuredData = ({
       "@type": "ContactPoint",
       "telephone": "",
       "contactType": "customer service",
-      "email": "support@ermits.com",
+      "email": "support@yourdomain.com",
       "availableLanguage": ["English"]
     }
   };
